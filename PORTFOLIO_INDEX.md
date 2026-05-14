@@ -1,6 +1,6 @@
 # AUMARA Patent Portfolio Index
 
-Complete index of all AUMARA filings as of May 2026.  
+Complete index of all AUMARA filings as of May 2026.
 Inventor: Peter Michael Viviani · Assignee: AUMARA LLC (Wyoming)
 
 ---
@@ -69,7 +69,6 @@ Inventor: Peter Michael Viviani · Assignee: AUMARA LLC (Wyoming)
 |--------|-------|-------|--------|
 | PATENT_12 | KNVS: Self-Building AI Visual Substrate | February 10, 2026 | Provisional filed · Abstract + claims published |
 | PATENT_14 | Neural Git: AI Self-Versioning Substrate | February 10, 2026 | Provisional filed · Abstract + claims published |
-| PATENT_16 | EUROPA: AI-Governed Sovereign Simulation Engine | To be filed | Provisional pending · Abstract + claims published |
 
 ## Withheld Filings
 
@@ -82,13 +81,13 @@ Inventor: Peter Michael Viviani · Assignee: AUMARA LLC (Wyoming)
 
 ## Summary Statistics
 
-- Total filings: 25+
+- Total filings: 24
 - Provisional applications filed: 23
 - Full text published (Public Tier): 10
-- Abstract + claims published (Registered Tier): 13+
+- Abstract + claims published (Registered Tier): 12
 - Implementation fully withheld: 2
 
 ---
 
-*Last updated: May 2026*  
+*Last updated: May 2026*
 *Contact: peter@aumara.xyz*
