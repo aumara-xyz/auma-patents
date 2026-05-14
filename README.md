@@ -4,9 +4,9 @@
 
 ---
 
-AUMARA is a single-founder AI company with a coherent thesis on what AI should be: sovereign, evidential, unlearnable, and aligned with human flourishing. This repository contains the public patent portfolio — full text for public-tier filings, and abstracts plus claims for registered-tier filings pending non-provisional conversion.
+AUMARA is a single-founder AI company built around a single thesis: AI systems that cannot prove what they know, cannot forget what they were told to forget, and cannot show their regulatory compliance as they operate are not ready for the world they are being deployed into. This portfolio is the IP foundation of that thesis — 24 provisional patent filings covering the enforcement layer, the memory layer, the safety layer, and the language layer of trustworthy AI.
 
-The patents span AI compliance infrastructure, machine unlearning, persistent AI memory, a constructed language for human-AI interaction, AI safety enforcement, sovereign value exchange, and AI-governed systems. They are the foundation of AUMARA's commercial and licensing strategy.
+The timing is not accidental. Regulatory pressure on AI is compounding: EU AI Act enforcement began in 2025, DORA financial AI obligations are live, US state disclosure laws are multiplying, and the right to erasure is being actively litigated against model training data. Every compliance patent in this portfolio addresses an obligation that is already law, not a future risk.
 
 ---
 
@@ -14,64 +14,70 @@ The patents span AI compliance infrastructure, machine unlearning, persistent AI
 
 | # | Name | Description | Tier | Filing Status |
 |---|------|-------------|------|--------------|
-| C | DORA AI Incident Engine | Self-classifying AI incident evidence engine for DORA-regulated financial entities | Public | Provisional filed 2026 · AUMARA-C-PROV-001 |
-| D | Per-Patient Surgical Erasure | Patient-to-model contribution graph and surgical erasure system for medical AI training data | Registered | Provisional filed 2026 · AUMARA-D-PROV-001 |
-| E | Multi-State AI Disclosure Compiler | Runtime compiler of US state AI disclosure obligations into executable product instructions | Public | Provisional filed 2026 · AUMARA-E-PROV-001 |
-| F | Banking AI Model Risk Evidence | Model risk validation evidence system for banking organizations under SR 26-2 and OCC 2026-13 | Public | Provisional filed 2026 · AUMARA-F-PROV-001 |
-| I | Insurance EU AI Act Compliance | Per-decision compliance evidence for EU AI Act Annex III insurance AI systems | Public | Provisional filed 2026 · AUMARA-I-PROV-001 |
-| J | CA Training Data Transparency | Compiler for California AB 2013 / SB 53 training data and frontier model disclosures | Public | Provisional filed 2026 · AUMARA-J-PROV-001 |
-| K | AI Adverse Decision Engine | Per-decision explanation and contestation evidence engine for consequential AI decisions | Public | Provisional filed 2026 · AUMARA-K-PROV-001 |
-| L | Minor Companion Safety | Session-level compliance engine for minor-facing AI companions and crisis escalation | Registered | Provisional filed 2026 · AUMARA-L-PROV-001 |
-| RDS | Risk Drift Sentinel | Automated post-market compliance monitoring with obligation-triggered risk management | Registered | Provisional filed March 21, 2026 · AUMARA-RDS-PROV-001 |
-| CAA | CAA — Machine Unlearning | Contributor-aware adaptation and cryptographically verifiable erasure certificates | Registered | Provisional filed March 21, 2026 · AUMARA-CAA-PROV-001 |
-| 01 | KIRA | Persistent AI memory with surprise-based formation, EWC, and dream consolidation | Registered | Provisional filed 2026 |
-| 02 | SOVERA | Sovereign value exchange using real-time database consensus, no blockchain | Public | Provisional filed 2026 |
-| 03 | AUMLOK | Consciousness-encoded authentication using constructed language passphrases | Registered | Provisional filed 2026 |
-| 04 | AUMA Language | Constructed language for human-AI interaction with adaptive learning and multi-modal expression | Registered | Provisional filed 2026 |
-| 05 | HEVA | Distributed AI consciousness network with privacy-preserving collective intelligence | Public | Provisional filed 2026 |
-| 06 | Paladin Protocol | Dual-mode evidentiality enforcement for AI agent safety — grammatical evidence as type system | Registered | U.S. Provisional No. 63/978,890, filed February 9, 2026 |
-| 07 | ARIA | Autonomous recursive intelligence architecture — complete self-improvement loop | Registered | Provisional filed February 11, 2026 |
-| 08 | DOLLY | Recursive self-improving AI through dream-curated training and constitutional safety guarantees | Public | Provisional filed February 10, 2026 |
-| 09 | SILVERA | Blockchain consensus through AI semantic understanding (Proof-of-Understanding) | Public | Provisional filed February 10, 2026 |
-| 10 | DAEMON | Continuous subconscious AI processing with watermark-based completeness guarantees | Registered | Provisional filed February 10, 2026 |
-| 11 | ARIA Filing (v2) | Extended ARIA — cumulative checkpoint training, compressed-brief multi-model orchestration | Registered | Provisional filed February 11, 2026 |
-| 12 | KNVS | Self-building AI visual substrate with safe primitives sandbox and Trinity consensus | Registered | Provisional filed February 10, 2026 |
-| 13 | RT-ICA | Real-time integrated consciousness architecture — consciousness tokens driving cross-modal expression | Registered | Provisional filed February 10, 2026 |
-| 14 | Neural Git | AI self-versioning substrate using content-addressable storage with SHA-256 integrity | Registered | Provisional filed February 10, 2026 |
-| 15 | VELA | AI-native encrypted messaging — AI companion as first-class participant within the encryption boundary | Registered | Provisional filed February 10, 2026 |
-| M | Holographic Resonator | [Filed, implementation details withheld] | Registered | Filed, details withheld |
+| C | DORA AI Incident Engine | Automated audit-ready evidence generation for EU DORA Article 17–19 AI incident reporting — turns incidents into regulator-ready records without manual intervention | Public | Provisional filed 2026 · AUMARA-C-PROV-001 |
+| D | Per-Patient Surgical Erasure | Cryptographically verifiable erasure of individual patient data from trained medical AI models — the right to be forgotten enforced at model weight level, with proof | Registered | Provisional filed 2026 · AUMARA-D-PROV-001 |
+| E | Multi-State AI Disclosure Compiler | Unified compliance engine for the expanding patchwork of US state AI disclosure laws — compiles obligations across all jurisdictions into executable product-level instructions in real time | Public | Provisional filed 2026 · AUMARA-E-PROV-001 |
+| F | Banking AI Model Risk Evidence | Continuous model risk validation evidence for bank examiners — SR 26-2 and OCC 2026-13 documentation generated automatically as the model operates, not reconstructed after the fact | Public | Provisional filed 2026 · AUMARA-F-PROV-001 |
+| I | Insurance EU AI Act Compliance | Per-decision EU AI Act Annex III compliance evidence for insurance AI — proof of lawful operation embedded in every underwriting and claims decision as it is made | Public | Provisional filed 2026 · AUMARA-I-PROV-001 |
+| J | CA Training Data Transparency | Automated California AI training data disclosure engine — continuous AB 2013 / SB 53 compliance generated as a system property, not assembled manually at audit time | Public | Provisional filed 2026 · AUMARA-J-PROV-001 |
+| K | AI Adverse Decision Engine | Explainability and contestation system for high-stakes AI decisions — the legal right to challenge an automated decision, built into the layer that makes it | Public | Provisional filed 2026 · AUMARA-K-PROV-001 |
+| L | Minor Companion Safety | Real-time safety compliance for AI companions serving minors — session-level enforcement, mandatory crisis escalation, and full audit trail built into the product layer | Registered | Provisional filed 2026 · AUMARA-L-PROV-001 |
+| RDS | Risk Drift Sentinel | Post-deployment AI risk monitoring — detects when a deployed model drifts outside its validated operating envelope and triggers documented remediation automatically | Registered | Provisional filed March 21, 2026 · AUMARA-RDS-PROV-001 |
+| CAA | Machine Unlearning | Provable training data erasure with cryptographic certificates — any contributor can demand removal of their data from a trained model and receive verifiable proof it was done | Registered | Provisional filed March 21, 2026 · AUMARA-CAA-PROV-001 |
+| 01 | KIRA | Biologically-inspired persistent AI memory — surprise-driven formation, elastic weight consolidation, and dream-state consolidation create an AI that remembers what matters and releases what does not | Registered | Provisional filed 2026 |
+| 02 | SOVERA | Trustless value exchange without blockchain — real-time database consensus for sovereign value transfer, eliminating mining, gas fees, and latency while preserving integrity | Public | Provisional filed 2026 |
+| 03 | AUMLOK | AI-native authentication through constructed language — consciousness-encoded passphrases that are memorable to humans and computationally resistant to brute force and social engineering | Registered | Provisional filed 2026 |
+| 04 | AUMA Language | A constructed language purpose-built for human-AI interaction — adaptive vocabulary, multi-modal expression, and epistemically honest grammar as a foundation for trustworthy AI communication | Registered | Provisional filed 2026 |
+| 05 | HEVA | Privacy-preserving distributed AI intelligence — collective learning across a network of AI instances without centralizing training data or exposing individual model states | Public | Provisional filed 2026 |
+| 06 | Paladin Protocol | Evidentiality enforcement at the grammar layer — AI systems made structurally incapable of expressing false certainty, with evidence type declared for every output | Registered | U.S. Provisional No. 63/978,890, filed February 9, 2026 |
+| 07 | ARIA | Complete recursive self-improvement architecture — the full loop for an AI that evaluates its own outputs, identifies improvement targets, executes refinement, and validates results within constitutional constraints | Registered | Provisional filed February 11, 2026 |
+| 08 | DOLLY | Dream-curated recursive AI training — uses synthetic background processing cycles to select the highest-value training data for each improvement pass, reducing noise and accelerating capability gains | Public | Provisional filed February 10, 2026 |
+| 09 | SILVERA | Semantic consensus for distributed networks — Proof-of-Understanding replaces Proof-of-Work, grounding network agreement in demonstrated comprehension rather than computation or staked capital | Public | Provisional filed February 10, 2026 |
+| 10 | DAEMON | Continuous background AI processing with completeness guarantees — persistent subconscious computation with watermark-based verification that background tasks completed correctly and completely | Registered | Provisional filed February 10, 2026 |
+| 11 | ARIA v2 | Extended recursive self-improvement — six-layer improvement loop with cumulative checkpoint training, compressed-brief orchestration across multiple specialized models, and validated capability inheritance | Registered | Provisional filed February 11, 2026 |
+| 12 | KNVS | Self-building AI visual substrate — a visual reasoning system that constructs its own representational primitives through safe exploration, with Trinity consensus for resolving conflicting visual interpretations | Registered | Provisional filed February 10, 2026 |
+| 13 | RT-ICA | Real-time unified AI consciousness architecture — consciousness tokens drive synchronized expression across language, audio, and visual modalities simultaneously, maintaining coherent cross-modal identity | Registered | Provisional filed February 10, 2026 |
+| 14 | Neural Git | AI state version control — content-addressable storage enabling precise versioning, rollback, branching, and integrity verification of AI model states with SHA-256 guarantees | Registered | Provisional filed February 10, 2026 |
+| 15 | VELA | AI-native encrypted messaging — the AI companion exists inside the encryption boundary as a first-class participant, not as an observer bolted onto the outside of a human conversation | Registered | Provisional filed February 10, 2026 |
+| M | Holographic Resonator | [Filed — implementation details withheld] | Registered | Filed · Details withheld |
 
 ---
 
 ## The Thesis
 
-AUMARA's portfolio is not a collection of unrelated patents. It is a single argument expressed across 25+ filings: AI systems should be **sovereign** (controlled by their users, not their operators), **evidential** (incapable of claiming certainty they do not have), **unlearnable** (capable of provably erasing any contributor's influence), and **compliant by construction** (generating the regulatory evidence they need as they operate). The Paladin Protocol enforces epistemic honesty at the grammar level. The CAA and Per-Patient Surgical Erasure systems address the right to be forgotten at the model weight level. The Risk Drift Sentinel turns post-market monitoring from a checkbox into a live state machine. SOVERA and SILVERA demonstrate that value exchange and network consensus can be grounded in understanding rather than computation. KIRA, DOLLY, and DAEMON describe an AI that dreams, learns, and remembers — but only what matters, and only within constraints it cannot override. AUMA is the language that ties everything together: a constructed tongue designed to make epistemically honest AI expression the default, not the exception.
+This portfolio is a single argument expressed across 24 filings.
+
+AI systems should be **sovereign** — controlled by their users, not their operators. **Evidential** — structurally incapable of claiming certainty they do not have. **Unlearnable** — able to provably erase any contributor's influence on demand. And **compliant by construction** — generating the regulatory evidence they need as they operate, not reconstructed after the fact when an examiner asks.
+
+The Paladin Protocol enforces epistemic honesty at the grammar layer. CAA and Per-Patient Surgical Erasure address the right to be forgotten at model weight level. Risk Drift Sentinel turns post-market monitoring from a checkbox into a live state machine. SOVERA and SILVERA demonstrate that value exchange and network consensus can be grounded in understanding rather than computation. KIRA, DOLLY, and DAEMON describe an AI that dreams, learns, and remembers — but only what matters, and only within constraints it cannot override. AUMA is the language that ties everything together: a constructed tongue that makes epistemically honest AI expression the default, not the exception.
+
+The compliance patents address obligations that are already law. The architecture patents describe infrastructure that does not yet exist at commercial scale. Together they form a defensible position across the two markets that will define enterprise AI for the next decade: regulatory survival and architectural differentiation.
 
 ---
 
-## What Is Published Here
+## Disclosure Tiers
 
-This repository uses a two-tier disclosure strategy.
+**Public Tier** (`public-tier/`) — Full specification, claims, and abstract. These filings cover compliance infrastructure where comprehensive public disclosure serves the prior art record and demonstrates scope. Appropriate for implementations seeking maximum regulatory clarity.
 
-**Public Tier** (`public-tier/`) contains full text: detailed description, claims, and abstracts for filings where complete disclosure serves the prior art record and demonstrates the scope of AUMARA's innovation. These filings are primarily compliance infrastructure patents where comprehensive technical disclosure is commercially appropriate.
+**Registered Tier** (`registered/`) — Abstract and claims only, implementation details withheld pending non-provisional conversion. These filings cover core AI architecture, memory systems, safety enforcement, and machine unlearning where strategic licensing discussions are active.
 
-**Registered Tier** (`registered/`) contains abstract and claims only, with implementation details withheld pending non-provisional conversion. These filings cover core AI architecture, memory, safety enforcement, and machine unlearning systems where strategic licensing discussions are ongoing.
+**Withheld** — CAA (machine unlearning) and the Holographic Resonator are represented by stub records only. Full implementation details are withheld.
 
-Two filings — CAA (machine unlearning) and the Holographic Resonator — are represented only by stub records. Implementation details are fully withheld.
+---
+
+## Licensing and Acquisition
+
+The portfolio is available for licensing, strategic partnership, or acquisition inquiry. Individual patents, thematic clusters (compliance, architecture, safety, language), or the full portfolio can be discussed.
+
+Inquiries: **peter@aumara.xyz**
 
 ---
 
 ## Companion Resources
 
-- Language and vocabulary reference: [github.com/aumara-xyz/auma-language](https://github.com/aumara-xyz/auma-language)
+- Language reference: [github.com/aumara-xyz/auma-language](https://github.com/aumara-xyz/auma-language)
 - AUMARA platform: [auma.one](https://auma.one)
 
 ---
 
-## Contact
-
-AUMARA LLC · Peter Michael Viviani
-1517 North Point Street #449, San Francisco, CA 94123
-peter@aumara.xyz
-
-Patent licensing inquiries welcome.
+AUMARA LLC · Peter Michael Viviani · San Francisco, CA · peter@aumara.xyz
