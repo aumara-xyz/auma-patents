@@ -39,7 +39,6 @@ The patents span AI compliance infrastructure, machine unlearning, persistent AI
 | 13 | RT-ICA | Real-time integrated consciousness architecture — consciousness tokens driving cross-modal expression | Registered | Provisional filed February 10, 2026 |
 | 14 | Neural Git | AI self-versioning substrate using content-addressable storage with SHA-256 integrity | Registered | Provisional filed February 10, 2026 |
 | 15 | VELA | AI-native encrypted messaging — AI companion as first-class participant within the encryption boundary | Registered | Provisional filed February 10, 2026 |
-| 16 | EUROPA | AI-governed sovereign simulation engine with composable world deployment | Registered | To be filed |
 | M | Holographic Resonator | [Filed, implementation details withheld] | Registered | Filed, details withheld |
 
 ---
@@ -71,8 +70,8 @@ Two filings — CAA (machine unlearning) and the Holographic Resonator — are r
 
 ## Contact
 
-AUMARA LLC · Peter Michael Viviani  
-1517 North Point Street #449, San Francisco, CA 94123  
+AUMARA LLC · Peter Michael Viviani
+1517 North Point Street #449, San Francisco, CA 94123
 peter@aumara.xyz
 
 Patent licensing inquiries welcome.
